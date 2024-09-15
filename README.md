@@ -1,4 +1,4 @@
-# clone-items-sort-3d
+# Fruit Sorter
  
 This project uses Unity3D, DoTween, and Zenject for dependency injection.
 The player should sort the fruits which are in the glasses (each glass should contain only one type of fruit), the player can move the top fruit from one glass to another (if there are less than five fruits in the other glass).
